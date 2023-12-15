@@ -1,0 +1,32 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opdracht_8.MainPage">
+    <Grid>
+        <Image Source="quiz_background.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+        <VerticalStackLayout
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            Spacing="20">
+
+            <Label
+                Text="Ben je klaar om je kennis te testen? Klik op de startknop om te beginnen!"
+                FontSize="24"
+                HorizontalOptions="CenterAndExpand"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                TextColor="White"
+                Margin="0,0,0,20" />
+
+            <Button
+                x:Name="Start"
+                Text="Start"
+                Clicked="OnNavigateToVragenPaginaClicked"
+                HorizontalOptions="CenterAndExpand"
+                BackgroundColor="#FFF72F"
+                TextColor="Black"
+                FontSize="20"
+                HeightRequest="75"
+                WidthRequest="100"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

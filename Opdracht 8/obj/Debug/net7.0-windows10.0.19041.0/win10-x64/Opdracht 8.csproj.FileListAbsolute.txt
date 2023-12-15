@@ -1,0 +1,652 @@
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.AssemblyReference.cache
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.AssemblyInfoInputs.cache
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.AssemblyInfo.cs
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.pdb
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.exe
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.deps.json
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.runtimeconfig.json
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.pdb
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1023.36312.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.CopyComplete
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.genruntimeconfig.cache
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\bitacademy\Leerjaar 3\MOA\Opdracht 8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\quiz_background.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.exe
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.deps.json
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.runtimeconfig.json
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.pdb
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1023.36312.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.AssemblyReference.cache
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\quiz_background.scale-100.png
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.AssemblyInfoInputs.cache
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.AssemblyInfo.cs
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.csproj.CopyComplete
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.pdb
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.genruntimeconfig.cache
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\Opdracht 8.dll
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
