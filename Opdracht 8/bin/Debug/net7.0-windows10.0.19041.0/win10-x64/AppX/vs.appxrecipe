@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-15T09:25:14.170</Modified>
+      <Modified>2023-12-15T13:02:48.131</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-15T09:25:12.784</Modified>
+      <Modified>2023-12-15T13:02:46.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.runtimeconfig.json">
       <PackagePath>Opdracht 8.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.dll">
       <PackagePath>Opdracht 8.dll</PackagePath>
-      <Modified>2023-12-15T09:25:08.296</Modified>
+      <Modified>2023-12-15T13:02:40.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Opdracht 8.exe</PackagePath>
-      <Modified>2023-12-15T09:25:08.391</Modified>
+      <Modified>2023-12-15T13:02:40.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\bitacademy\Leerjaar 3\repo\Opdracht8\Opdracht 8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Opdracht 8.deps.json">
       <PackagePath>Opdracht 8.deps.json</PackagePath>
-      <Modified>2023-12-15T09:20:54.863</Modified>
+      <Modified>2023-12-15T13:02:45.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ahmad\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.10\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
