@@ -24,43 +24,51 @@ namespace Opdracht_8
         }
 
         private async void GetTriviaData()
+{
+    HttpClient client = new HttpClient();
+    string apiUrl = "https://opentdb.com/api.php?amount=10&category=21&type=multiple";
+
+    try
+    {
+        string json = await client.GetStringAsync(apiUrl);
+        TriviaData triviaData = JsonConvert.DeserializeObject<TriviaData>(json);
+        totalQuestions = triviaData.results.Count;
+
+        foreach (var question in triviaData.results)
         {
-            HttpClient client = new HttpClient();
-            string apiUrl = "https://opentdb.com/api.php?amount=10&type=multiple";
+            string decodedQuestion = WebUtility.HtmlDecode(question.question);
+            TriviaLayout.Children.Add(new Label { Text = decodedQuestion, FontSize = 18, Margin = new Thickness(20) });
 
-            try
+            foreach (var answer in question.RandomizedAnswers)
             {
-                string json = await client.GetStringAsync(apiUrl);
-                TriviaData triviaData = JsonConvert.DeserializeObject<TriviaData>(json);
-                totalQuestions = triviaData.results.Count;
+                var decodedAnswer = WebUtility.HtmlDecode(answer);
 
-                foreach (var question in triviaData.results)
+                var button = new Button
                 {
-                    string decodedQuestion = WebUtility.HtmlDecode(question.question);
-                    TriviaLayout.Children.Add(new Label { Text = decodedQuestion, FontSize = 18, Margin = new Thickness(20) });
-
-                    foreach (var answer in question.RandomizedAnswers)
-                    {
-                        var decodedAnswer = WebUtility.HtmlDecode(answer);
-
-                        var button = new Button
-                        {
-                            Text = decodedAnswer,
-                            Margin = new Thickness(0, 0, 0, 10),
-                            WidthRequest = 200,
-                            BorderColor = Color.FromRgb(44, 196, 196),
-                            TextColor = Color.FromRgb(0, 0, 0)
-                        };
-                        button.Clicked += (s, e) => OnAnswerClicked(s, e, question, decodedAnswer);
-                        TriviaLayout.Children.Add(button);
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
+                    Text = decodedAnswer,
+                    Margin = new Thickness(0, 0, 0, 10),
+                    WidthRequest = 200,
+                    BorderColor = Color.FromRgb(44, 196, 196),
+                    TextColor = Color.FromRgb(0, 0, 0)
+                };
+                button.Clicked += (s, e) => OnAnswerClicked(s, e, question, decodedAnswer);
+                TriviaLayout.Children.Add(button);
             }
         }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error: {ex.Message}");
+
+        // Display an error message to the user
+        await DisplayAlert("Error", "Failed to fetch trivia data. Please check your api or internet connection and try again.", "Ok");
+    }
+    finally
+    {
+        client.Dispose(); // Dispose of the HttpClient to release resources
+    }
+}
+
 
         private void OnAnswerClicked(object sender, EventArgs e, TriviaQuestion question, string selectedAnswer)
         {
@@ -88,8 +96,6 @@ namespace Opdracht_8
                         easyCorrectCount++;
                         break;
                 }
-
-                // Zet de achtergrondkleur op groen
                 clickedButton.BackgroundColor = Color.FromRgb(0, 255, 0);
             }
             else
@@ -120,10 +126,14 @@ namespace Opdracht_8
 
         private async void ShowScorePopup()
         {
-            string explanation = $"Hard: {hardCorrectCount} correct, Medium: {mediumCorrectCount} correct, Easy: {easyCorrectCount} correct";
+            string explanation = $"Je hebt {hardCorrectCount} moeilijke vragen correct beantwoord\n" +
+                                 $"Je hebt {mediumCorrectCount} normale vragen correct beantwoord\n" +
+                                 $"Je hebt {easyCorrectCount} makkelijke vragen correct beantwoord";
+
             await DisplayAlert("Quiz Resultaat", $"Je score is: {score}\n\n{explanation}", "Ok");
             await Navigation.PopAsync();
         }
+
 
     }
 }
